@@ -2,11 +2,13 @@
 cmake planning project test
 
 ```bash
+git checkout -b new-branch-name  
 git status  
 git add .  
 git commit -m "version 0.0.1"  
 git push  
-git push --set-upstream origin v1  
+git push --set-upstream origin v2  
+git push origin v2 
 ```
 
 
